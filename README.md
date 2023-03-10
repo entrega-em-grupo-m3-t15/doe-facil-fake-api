@@ -8,7 +8,8 @@ Esse é o repositório com a base de JSON-Server + JSON-Server-Auth já configur
 
 Assim como a documentação do JSON-Server-Auth traz (https://www.npmjs.com/package/json-server-auth), existem 3 endpoints que podem ser utilizados para cadastro e 2 endpoints que podem ser usados para login.
 
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=doe-facil-fake-api-m3-t15&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fentrega-em-grupo-m3-t15%2Finsominia-button%2Fmain%2Fdoe-facil-fake-api-m3)
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Insominia%20button&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fentrega-em-grupo-m3-t15%2Finsominia-button%2Fmain%2Fnew-button)
+
 
 ### Cadastro
 

@@ -67,6 +67,14 @@
       "userIncome": "min",
       "available": false,
       "id": 5
+    },
+    {
+      "name": "Kit de Camisetas",
+      "description": "Meias tamanho PP, P e M",
+      "amount": 2,
+      "userId": 2,
+      "isClothes": true,
+      "id": 6
     }
   ]
 }
