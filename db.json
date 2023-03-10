@@ -6,6 +6,67 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "andre@mail.com",
+      "password": "$2a$10$fXJMW.3.JjhKRE0NROoobeM7Z9D.Yg.CxUsHN20cQDeIEEqnzg67q",
+      "name": "andre",
+      "id": 2
+    },
+    {
+      "email": "andre1@mail.com",
+      "password": "$2a$10$cqMOgmmJUSLKSGTrORhjw.GQIuYUm24.vt7qtMHWqbW6FNjZ7VzmO",
+      "name": "andre",
+      "userIncome": "min",
+      "id": 3
+    },
+    {
+      "email": "lucas@mail.com",
+      "password": "$2a$10$7v75fwp9Bw/FLlpA.ZjM2.jbMCcrhUVzAmqDMq4Vf/92Gbds20MrS",
+      "name": "Lucas",
+      "userIncome": "min",
+      "id": 4
+    }
+  ],
+  "donations": [
+    {
+      "name": "Cesta basica",
+      "description": "Cesta com mantimentos para auxlio das refeiçoes do dia dia",
+      "amount": 2,
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "name": "Blusas",
+      "description": "Blusas para o inverno, tamanho P, M e G",
+      "amount": 5,
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "name": "Tenis",
+      "description": "Tenis masculino, tamanho 38 ao 43",
+      "amount": 5,
+      "userId": 2,
+      "userIncome": "min",
+      "id": 3
+    },
+    {
+      "name": "Kit de limpeza pessoal",
+      "description": "sabonete, pasta de dente, escova de dente para o higiene",
+      "amount": 5,
+      "userId": 3,
+      "userIncome": "min",
+      "id": 4
+    },
+    {
+      "name": "Kit de Meias",
+      "description": "Meias tamanho 38-42",
+      "amount": 1,
+      "userId": 2,
+      "userIncome": "min",
+      "available": false,
+      "id": 5
     }
   ]
 }
