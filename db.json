@@ -9,9 +9,11 @@
     },
     {
       "email": "andre@mail.com",
-      "password": "$2a$10$fXJMW.3.JjhKRE0NROoobeM7Z9D.Yg.CxUsHN20cQDeIEEqnzg67q",
-      "name": "andre",
-      "id": 2
+      "password": "$2a$10$pWw.vX82P.lywzL1F19R7.SiGxcPbmtDES5TiPxqR8eUsXA7cx9Mm",
+      "name": "Andre",
+      "id": 2,
+      "userIncome": "min",
+      "isDonor": true
     },
     {
       "email": "andre1@mail.com",
@@ -26,6 +28,15 @@
       "name": "Lucas",
       "userIncome": "min",
       "id": 4
+    },
+    {
+      "email": "andreLC@mail.com",
+      "password": "$2a$10$WRrDHroV.gRpVRB.NO0BkO4qmn0NJVvC.RznHOApVtPAIvoJVBkIq",
+      "name": "André Luiz",
+      "adress": "Av. Pres. Castelo Branco, Portão 3 - Maracanã, Rio de Janeiro - RJ, 20271-130",
+      "contact": "99 988775566",
+      "isDonor": true,
+      "id": 5
     }
   ],
   "donations": [
@@ -75,6 +86,14 @@
       "userId": 2,
       "isClothes": true,
       "id": 6
+    },
+    {
+      "name": "Kit de Frutas",
+      "description": "Frutas Variadas",
+      "amount": 2,
+      "userId": 5,
+      "isClothes": true,
+      "id": 7
     }
   ]
 }
